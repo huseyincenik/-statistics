@@ -1,2 +1,2 @@
-# -statistics
+# statistics
 Statistics applications with python
